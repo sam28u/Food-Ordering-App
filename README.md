@@ -33,7 +33,7 @@ A modern React-based food ordering platform designed specifically for college ca
 
 1. **Clone the repository**
 ```bash
-git clone [https://github.com/sam28u/Food-Ordering-App.git]
+git clone https://github.com/sam28u/Food-Ordering-App.git
 cd CampusCanteen
 ``` 
 2. **Install dependencies**
